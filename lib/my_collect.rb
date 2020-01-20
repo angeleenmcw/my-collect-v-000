@@ -3,3 +3,4 @@ def my_collect(collection)
   collection(array) do |lang|
   lang.upcase
 end
+end
